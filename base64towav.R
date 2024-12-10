@@ -15,8 +15,6 @@
 # 
 # After installation, confirm that ffmpeg is installed correctly by running:
 # 
-# bash
-# Copiar código
 # ffmpeg -version
 # You should see version information for ffmpeg if it's installed properly.
 
