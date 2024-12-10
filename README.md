@@ -1,2 +1,2 @@
 # Base64-audio-decoder
-Convert Base64 data to wav audio files
+An R script to convert Base64 data (in CSV files) to WAV audio files.
